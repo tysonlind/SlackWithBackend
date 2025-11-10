@@ -94,6 +94,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  overflow-y: scroll;
+  max-height: 630px;
 }
 
 .message {
